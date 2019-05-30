@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333181825171",
+    "firebase_url": "https://educationalvideoquiz-5a741.firebaseio.com",
+    "project_id": "educationalvideoquiz-5a741",
+    "storage_bucket": "educationalvideoquiz-5a741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333181825171:android:3aa01382210eecad",
+        "android_client_info": {
+          "package_name": "com.example.educationalvideoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333181825171-ju63gev235bq55klc7b3gvrk1si31vt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.educationalvideoquiz",
+            "certificate_hash": "3381a86b4d6750cbce34521e8067d18cec125871"
+          }
+        },
+        {
+          "client_id": "333181825171-ucb8ad8l20nqtq2ocbsidq793n6r78rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8aWe4f_mHODBGj8sHXeWLFBXgH45F28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333181825171-ucb8ad8l20nqtq2ocbsidq793n6r78rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Educational Video Quiz</string>
+    <string name="play">Play</string>
+    <string name="username">Player Name</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+
+    <string name="return_main_menu">Back To Main Menu</string>
+</resources>
